@@ -1,0 +1,1 @@
+# FairTrip-A-Fairness-Aware-Group-Travel-Itinerary-Recommender
